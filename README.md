@@ -1,6 +1,6 @@
-# Enterprise Bank Management System
+# Bank Management System
 
-A robust, object-oriented Python application designed to simulate a professional banking environment. This system combines a secure PostgreSQL database with a clean, interactive web interface, delivering an enterprise-grade user experience for managing financial records.
+A robust, object-oriented Python application designed to simulate a professional banking environment. This system combines a secure PostgreSQL database with a clean, interactive web interface, delivering a seamless user experience for managing financial records.
 
 ---
 
@@ -9,8 +9,8 @@ A robust, object-oriented Python application designed to simulate a professional
 *   **Secure Authentication:** Utilizes `hashlib` for cryptographic PIN hashing, ensuring user credentials are fundamentally protected.
 *   **Core Financial Operations:** Seamlessly process deposits, withdrawals, and balance inquiries with strict validation and real-time database persistence.
 *   **Comprehensive Audit Logging:** Automatically tracks and records all account activities to generate detailed, timestamped transaction histories.
-*   **Account Management:** Users can register new entities, dynamically update profile information (like legal names and PINs), and securely delete their accounts.
-*   **Modern Web Interface:** A highly interactive, professional web GUI built entirely in Python using **Streamlit**, prioritizing high-utility enterprise design over cluttered interfaces.
+*   **Account Management:** Users can register new accounts, dynamically update profile information (like legal names and PINs), and securely delete their accounts.
+*   **Modern Web Interface:** A highly interactive web GUI built entirely in Python using **Streamlit**, prioritizing high-utility, clean design over cluttered interfaces.
 
 ---
 
